@@ -3,6 +3,3 @@ a.link:link    {color: #0a0aff; text-decoration: none;     }
 a.link:visited {color: #0a0aff; text-decoration: none;     }
 a.link:hover   {color: #0a0aff; text-decoration: underline;}
 a.link:active  {color: #0a0aff; text-decoration: underline;}
-
-/* iframe */
-iframe.no-border {border: none;}

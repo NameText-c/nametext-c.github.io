@@ -1,4 +1,7 @@
 {
     "editor.tabSize": 2,
-    "editor.indentSize": "tabSize"
+    "editor.indentSize": "tabSize",
+    "files.exclude": {
+        "**/desktop.ini": true
+    }
 }
